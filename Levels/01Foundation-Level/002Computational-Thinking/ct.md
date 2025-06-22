@@ -8,6 +8,6 @@
 > Downlaod the Notes Lecture wise 👇
 - [Lecture-1](https://raw.githubusercontent.com/hisayakhere/IITM-BS-DS/main/Levels/01Foundation-Level/002Computational-Thinking/Week01/Lecture1.1.pdf)
 - [Lecture-2](https://raw.githubusercontent.com/hisayakhere/IITM-BS-DS/main/Levels/01Foundation-Level/002Computational-Thinking/Week01/Lecture1.2.pdf)
-- [Tutorial for Lecture-2](https://raw.githubusercontent.com/hisayakhere/IITM-BS-DS/main/Levels/01Foundation-Level/002Computational-Thinking/Week01/TutorialForLecutre1.2.pdf)
+- [Tutorial for Lecture-2](https://raw.githubusercontent.com/hisayakhere/IITM-BS-DS/main/Levels/01Foundation-Level/002Computational-Thinking/Week01/TutorialForLecture1.2.pdf)
 </details>
 
