@@ -22,4 +22,36 @@
 - [Lecture-9](https://raw.githubusercontent.com/hisayakhere/IITM-BS-DS/main/Levels/01Foundation-Level/002Computational-Thinking/Week01/Lecture1.9.pdf)
 - [Lecture-10](https://raw.githubusercontent.com/hisayakhere/IITM-BS-DS/main/Levels/01Foundation-Level/002Computational-Thinking/Week01/Lecture1.10.pdf)
 </details>
+<details><summary>Week 2</summary>
 
+</details>
+<details><summary>Week 3</summary>
+
+</details>
+<details><summary>Week 4</summary>
+
+</details>
+<details><summary>Week 5</summary>
+
+</details>
+<details><summary>Week 6</summary>
+
+</details>
+<details><summary>Week 7</summary>
+
+</details>
+<details><summary>Week 8</summary>
+
+</details>
+<details><summary>Week 9</summary>
+
+</details>
+<details><summary>Week 10</summary>
+
+</details>
+<details><summary>Week 11</summary>
+
+</details>
+<details><summary>Week 12</summary>
+
+</details>
