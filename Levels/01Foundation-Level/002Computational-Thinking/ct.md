@@ -1,4 +1,6 @@
-> Select the Week and Download the Notes Week wise
+> Download the Full Computational-Thinking Note here 👇
+
+> Or, Select the Week and Download the Notes Week wise
 
 <details><summary>Week 1</summary>
 
