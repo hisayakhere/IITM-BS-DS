@@ -7,3 +7,8 @@ Hi, I'm Sayak. Here, I share my notes from the IIT Madras Data Science course.
 - [Diploma](Levels/02Diploma-Level/diploma.md)
 - [BSc Level](Levels/03BSc-Level/bsc.md)
 - [BS Level](Levels/04BS-Level/bs.md)
+
+> Websites related to, IITM-BS-DS Course 👇
+
+- [Acegrade](https://acegrade.in/) (for self study)
+- [Official IIT-Madras Website](https://study.iitm.ac.in/ds/) (BS Data Science and Applications)
