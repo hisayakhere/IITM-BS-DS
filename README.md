@@ -1,6 +1,7 @@
 # IITM-BS-DS
 
-Hi, I'm Sayak. Here, I share my notes from the IIT Madras Data Science course.
+Hi, I'm Sayak. This repository documents my IIT Madras Data Science course journey.
+
 > Choose the level you're in your Data-Science Course 👇
 
 - [Foundation](Levels/01Foundation-Level/foundation.md)
