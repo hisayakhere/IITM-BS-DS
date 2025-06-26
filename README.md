@@ -24,6 +24,7 @@ Hi, I'm Sayak. Here, I share my notes from the IIT Madras Data Science course.
     - CGPA - 8.0 (Total CGPA: 8.0)
     </pre>
 <section>
+
 <section title="Jan 2025">
     <u><b><i>Jan 2025</i></b></u>
     <pre>
@@ -32,7 +33,8 @@ Hi, I'm Sayak. Here, I share my notes from the IIT Madras Data Science course.
     - CGPA - 4.0 (Total CGPA: 6.0)
     </pre>
 <section>
-<section title="May 2025">
+
+<!-- <section title="May 2025">
     <u><b><i>May 2025</i></b></u>
     <pre>
     - Courses Completed : 
@@ -43,8 +45,9 @@ Hi, I'm Sayak. Here, I share my notes from the IIT Madras Data Science course.
     - Credits Earned : 16 (Total Credits: 24)
     - CGPA -  (Total CGPA: )
     </pre>
-<section>
-<section title="Sept 2025">
+<section> -->
+
+<!-- <section title="Sept 2025">
     <u><b><i>Sept 2025</i></b></u>
     <pre>
     - Courses Completed : 
@@ -53,8 +56,8 @@ Hi, I'm Sayak. Here, I share my notes from the IIT Madras Data Science course.
     - Credits Earned : 8 (Total Credits: 32)
     - CGPA -  (Total CGPA: )
     </pre>
-<section>
+<section> -->
 
-<p align="center">
+<!-- <p align="center">
   <em><b>Foundation Level Completed!</b></em> ✨
-</p>
+</p> -->
