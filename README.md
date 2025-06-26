@@ -19,7 +19,7 @@ Hi, I'm Sayak. Here, I share my notes from the IIT Madras Data Science course.
     <u><b><i>Sept 2024</i></b></u>
     <pre>
     - Passed Qualifier
-    - Course Completed : English 1 
+    - Course Completed : # English 1 
     - Credits Earned : 4 (Total Credits: 4)
     - CGPA - 8.0 (Total CGPA: 8.0)
     </pre>
@@ -27,16 +27,34 @@ Hi, I'm Sayak. Here, I share my notes from the IIT Madras Data Science course.
 <section title="Jan 2025">
     <u><b><i>Jan 2025</i></b></u>
     <pre>
-    - Course Completed : Mathematics 1 
+    - Course Completed : # Mathematics 1 
     - Credits Earned : 4 (Total Credits: 8)
     - CGPA - 4.0 (Total CGPA: 6.0)
     </pre>
 <section>
-<!-- <section title="May 2025">
+<section title="May 2025">
     <u><b><i>May 2025</i></b></u>
     <pre>
-    - Courses Completed : Mathematics 2, English 2, Statistics 1, CT 
+    - Courses Completed : 
+        # Computational Thinking
+        # Statistics 1
+        # English 2
+        # Mathematics 2
     - Credits Earned : 16 (Total Credits: 24)
-    - CGPA - 10.0 (Total CGPA: 8.67)
+    - CGPA -  (Total CGPA: )
     </pre>
-<section> -->
+<section>
+<section title="Sept 2025">
+    <u><b><i>Sept 2025</i></b></u>
+    <pre>
+    - Courses Completed : 
+        # Programming in Python
+        # Statistics 2
+    - Credits Earned : 8 (Total Credits: 32)
+    - CGPA -  (Total CGPA: )
+    </pre>
+<section>
+
+<p align="center">
+  <em><b>Foundation Level Completed!</b></em> ✨
+</p>
