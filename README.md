@@ -35,7 +35,7 @@ Hi, I'm Sayak. This repository documents my IIT Madras Data Science course journ
     </pre>
 <section>
 
-Continuing...
+<em>Continuing...</em>
 
 <!-- <section title="May 2025">
     <u><b><i>May 2025</i></b></u>
