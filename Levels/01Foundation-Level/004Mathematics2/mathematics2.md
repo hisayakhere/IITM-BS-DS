@@ -5,7 +5,7 @@
 <details><summary>Week 1</summary>
 
 > Download the Full Week-1 Note here 👇
-<!-- - [Week 1](https://raw.githubusercontent.com/hisayakhere/IITM-BS-DS/main/Levels/01Foundation-Level/004Mathematics2/Week01/Week1-M2.pdf) -->
+- [Week 1](https://raw.githubusercontent.com/hisayakhere/IITM-BS-DS/main/Levels/01Foundation-Level/004Mathematics2/Week01/Week1-M2.pdf)
 
 > Downlaod the Notes Lecture wise 👇
 <!-- Lectures -->
