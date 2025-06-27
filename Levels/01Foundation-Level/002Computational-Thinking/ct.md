@@ -5,7 +5,7 @@
 <details><summary>Week 1</summary>
 
 > Download the Full Week-1 Note here 👇
-- [Week 1](https://raw.githubusercontent.com/hisayakhere/IITM-BS-DS/main/Levels/01Foundation-Level/002Computational-Thinking/Week01/Week1.pdf)
+- [Week 1](https://raw.githubusercontent.com/hisayakhere/IITM-BS-DS/main/Levels/01Foundation-Level/002Computational-Thinking/Week01/Week1-CT.pdf)
 
 > Downlaod the Notes Lecture wise 👇
 - [Lecture-1](https://raw.githubusercontent.com/hisayakhere/IITM-BS-DS/main/Levels/01Foundation-Level/002Computational-Thinking/Week01/Lecture1.1.pdf)
