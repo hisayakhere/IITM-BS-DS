@@ -1,4 +1,4 @@
-> Download the Full Computational-Thinking Note here 👇
+> Download the Full 'Mathematics 2' Note here 👇
 
 > Or, Select the Week and Download the Notes Week wise
 
