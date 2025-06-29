@@ -10,5 +10,5 @@
 > Downlaod the Notes Lecture wise 👇
 - [Course Overview](https://raw.githubusercontent.com/hisayakhere/IITM-BS-DS/main/Levels/01Foundation-Level/001Statistics1/Week01/CourseOverview.pdf)
 <!-- Lectures -->
-<!-- - [Lecture-1](https://raw.githubusercontent.com/hisayakhere/IITM-BS-DS/main/Levels/01Foundation-Level/001Statistics1/Week01/Lecture1.1.pdf) -->
+- [Lecture-1](https://raw.githubusercontent.com/hisayakhere/IITM-BS-DS/main/Levels/01Foundation-Level/001Statistics1/Week01/Lecture1.1.pdf)
 </details>
